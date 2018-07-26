@@ -2,7 +2,7 @@
     "name": "etrimi/mailhookbundle",
     "type": "symfony-bundle",
     "description": "A bundle to catch API webhook from differents mail service",
-    "keywords": ["symfony", "bundle", "mail", "api", "webhook", "hook", "mandrill", "mailjet", "sparkpost"],
+    "keywords": ["symfony", "bundle", "mail", "api", "webhook", "hook", "mandrill", "mailjet", "sparkpost", "mailgun"],
     "homepage": "http://github.com/ScullWM/MailHookBundle",
     "license": "MIT",
     "authors": [
